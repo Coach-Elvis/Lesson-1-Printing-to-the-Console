@@ -7,3 +7,4 @@ let something = 'amazing';
 console.log('something:', something);
 
 let person = "Joe";
+console.log(person);
