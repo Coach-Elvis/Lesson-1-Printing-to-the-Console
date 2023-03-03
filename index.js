@@ -1,3 +1,4 @@
+// Example of Printing a simple Message to the Console
 console.log("Hello");
 
 // Example of variables (Covered in Lesson 2):
