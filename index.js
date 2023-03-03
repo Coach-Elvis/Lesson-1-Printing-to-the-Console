@@ -10,3 +10,6 @@ console.log('something:', something);
 // Example of Printing Variable stored in a Reference
 let person = "Joe";
 console.log(person);
+
+// Second Example of Printing Variable Concatenated with Message
+console.log("Hello ", person);
